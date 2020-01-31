@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+  color: #29D5D9;
+  font-size: 100px;
+  font-family:sans-serif ;
+  font-style: italic;
+  text-shadow:5px 5px #25BEC2;
+}
+header{
+background-color: lightblue;
+height: 75px;
+width: auto;
+text-align: center;
+font-size: 30px;
+font-family: fantasy;
+color: #29D5D9;
+font-style:normal;
+}
+#länk{
+  font-size: 15px;
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+}
+nav{
+  background-color: lightblue;
+  height: 50px;
+  width: auto;
+}
+main{
+  background-color: lightblue;
+  height: 350px;
+  width: 1280px;
+}
+aside{
+  background-color: lightblue;
+  height: 350px;
+  width: 640px;
+}
+footer{
+  background-color: lightblue;
+  height: 90px;
+  width: auto;
+}
+#mainwrapper{
+  display: flex;
+}
+#wrapper{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+/* rätt storlek på bild*/
+#bild {
+  max-width: 100%;
+  height: auto;
+  image-align: center;
+}
+/* lägger bilden i mitten*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body{
+  background-color: lightblue;
+
+}
