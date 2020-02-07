@@ -1,20 +1,11 @@
 h1 {
   text-align: center;
   color: #29D5D9;
-  font-size: 100px;
-  font-family:sans-serif ;
-  font-style: italic;
-  text-shadow:5px 5px #25BEC2;
 }
 header{
-background-color: lightblue;
+background-color: black;
 height: 75px;
 width: auto;
-text-align: center;
-font-size: 30px;
-font-family: fantasy;
-color: #29D5D9;
-font-style:normal;
 }
 #länk{
   font-size: 15px;
@@ -23,23 +14,23 @@ font-style:normal;
   font-family: fantasy;
 }
 nav{
-  background-color: lightblue;
+  background-color: lightpink;
   height: 50px;
   width: auto;
 }
 main{
-  background-color: lightblue;
+  background-color: lightgreen;
   height: 350px;
   width: 1280px;
 }
 aside{
-  background-color: lightblue;
+  background-color: navy;
   height: 350px;
   width: 640px;
 }
 footer{
-  background-color: lightblue;
-  height: 90px;
+  background-color: orange;
+  height: 70px;
   width: auto;
 }
 #mainwrapper{
@@ -66,5 +57,4 @@ footer{
 }
 body{
   background-color: lightblue;
-
 }
